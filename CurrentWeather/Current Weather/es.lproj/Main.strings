@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "6"; ObjectID = "1bF-I0-yr8"; */
+"1bF-I0-yr8.text" = "6";
+
+/* Class = "UILabel"; text = "VISIBILIDAD"; ObjectID = "3XB-DA-oZ6"; */
+"3XB-DA-oZ6.text" = "VISIBILIDAD";
+
+/* Class = "UILabel"; text = "INTENSIDAD LLUVIA"; ObjectID = "4Ac-UK-edd"; */
+"4Ac-UK-edd.text" = "INTENSIDAD LLUVIA";
+
+/* Class = "UILabel"; text = "60%"; ObjectID = "4tp-kv-DKy"; */
+"4tp-kv-DKy.text" = "60%";
+
+/* Class = "UILabel"; text = "Alcorcón, Madrid"; ObjectID = "73F-vl-wOg"; */
+"73F-vl-wOg.text" = "Alcorcón, Madrid";
+
+/* Class = "UILabel"; text = "25 km/h"; ObjectID = "BhC-eZ-ecb"; */
+"BhC-eZ-ecb.text" = "25 km/h";
+
+/* Class = "UILabel"; text = "DIRECCIÓN VIENTO"; ObjectID = "EyH-vW-aJ6"; */
+"EyH-vW-aJ6.text" = "DIRECCIÓN VIENTO";
+
+/* Class = "UILabel"; text = "18%"; ObjectID = "GMl-be-BO7"; */
+"GMl-be-BO7.text" = "18%";
+
+/* Class = "UILabel"; text = "HUMEDAD"; ObjectID = "KyC-MV-zXg"; */
+"KyC-MV-zXg.text" = "HUMEDAD";
+
+/* Class = "UILabel"; text = "20 ml/h"; ObjectID = "L9u-aN-LFs"; */
+"L9u-aN-LFs.text" = "20 ml/h";
+
+/* Class = "UILabel"; text = "4 ºC"; ObjectID = "Myv-e4-C5c"; */
+"Myv-e4-C5c.text" = "4 ºC";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "Nih-7G-h7i"; */
+"Nih-7G-h7i.text" = "20";
+
+/* Class = "UILabel"; text = "Sunny"; ObjectID = "OBZ-6p-kb4"; */
+"OBZ-6p-kb4.text" = "Sunny";
+
+/* Class = "UILabel"; text = "PROBABILIDAD LLUVIA"; ObjectID = "RSF-Pf-JkK"; */
+"RSF-Pf-JkK.text" = "PROBABILIDAD LLUVIA";
+
+/* Class = "UILabel"; text = "NUBES"; ObjectID = "U7n-Sh-cEo"; */
+"U7n-Sh-cEo.text" = "NUBES";
+
+/* Class = "UILabel"; text = "VIENTO"; ObjectID = "X6z-hj-0Qz"; */
+"X6z-hj-0Qz.text" = "VIENTO";
+
+/* Class = "UILabel"; text = "PUNTO ROCÍO"; ObjectID = "bBA-QW-IVI"; */
+"bBA-QW-IVI.text" = "PUNTO ROCÍO";
+
+/* Class = "UILabel"; text = "RÁFAGAS VIENTO"; ObjectID = "fYT-XD-AOJ"; */
+"fYT-XD-AOJ.text" = "RÁFAGAS VIENTO";
+
+/* Class = "UILabel"; text = "º C"; ObjectID = "kRu-36-pvN"; */
+"kRu-36-pvN.text" = "º C";
+
+/* Class = "UITextField"; placeholder = "Introduce localidad"; ObjectID = "kcV-Dk-I8e"; */
+"kcV-Dk-I8e.placeholder" = "Introduce localidad";
+
+/* Class = "UILabel"; text = "25 %"; ObjectID = "opB-yW-3rJ"; */
+"opB-yW-3rJ.text" = "25 %";
+
+/* Class = "UILabel"; text = "INDICE UV"; ObjectID = "qMn-bj-9Ub"; */
+"qMn-bj-9Ub.text" = "INDICE UV";
+
+/* Class = "UILabel"; text = "25 km"; ObjectID = "v1T-pj-Z5D"; */
+"v1T-pj-Z5D.text" = "25 km";
+
+/* Class = "UILabel"; text = "188 º"; ObjectID = "xUa-zx-blO"; */
+"xUa-zx-blO.text" = "188 º";
+
+/* Class = "UILabel"; text = "23 km/h"; ObjectID = "zIA-H4-0Sr"; */
+"zIA-H4-0Sr.text" = "23 km/h";
